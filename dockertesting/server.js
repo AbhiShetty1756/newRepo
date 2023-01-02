@@ -10,6 +10,5 @@ app.get('/about',function(req,res){
     res.send("<h1>about</h1>")
 })
 
-app.listen(3000,function(){
-    console.log("listening at port 3000")
-})
+app.listen(8081)
+console.log("running at 8081")

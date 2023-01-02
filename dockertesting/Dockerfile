@@ -1,7 +1,7 @@
-From node:12
-Workdir /app
+FROM node:16
+WORKDIR /app
 COPY package.json /app
 RUN npm install
 COPY . /app
-CMD node index.js
-Expose 8081
+CMD node server.js
+EXPOSE 8081
