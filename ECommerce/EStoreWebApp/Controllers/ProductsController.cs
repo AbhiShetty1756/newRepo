@@ -24,7 +24,8 @@ public class ProductsController : Controller
     public IActionResult Index()
     {
         CatalogManager manager=new CatalogManager();
-        List<Product> allProducts=manager.GetAllProducts();
+        List<Product> allProducts=manager.Serializedata();
+        Console.WriteLine(allProducts);
         this.ViewData["products"]=allProducts;
         return View();
     }

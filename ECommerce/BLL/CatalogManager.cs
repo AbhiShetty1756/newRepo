@@ -18,5 +18,9 @@ public class CatalogManager
        Product foundProduct=allProducts.Find((product)=>product.ProductId ==id);
       return foundProduct ;
      }
-     public void Serializedata()
+     public List<Product> Serializedata(){
+        List<Product> products=GetAllProducts();
+        DBManager.Serializer(products);
+        return DBManager.GetAllProductsFromFile();
+     }
 }
