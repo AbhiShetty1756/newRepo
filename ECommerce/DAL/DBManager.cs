@@ -1,7 +1,9 @@
 ﻿namespace DAL;
 using BOL;
+using System;
 using System.Text.Json;
 using System.Threading.Tasks;
+
 
 
 public class DBManager
@@ -25,7 +27,21 @@ public class DBManager
             allProducts.Add(new Product { ProductId = 15, Title = "Tulip", Description = "Tulips are the quintessential spring flower and available from January to June.", UnitPrice = 17, Category = "Flower", Balance = 10000 });
             return allProducts;
     }
-    public static List<Product> GetAllProductsFromFile(string path){       
+    public static void Serializer(List<Product> products){
+        List<Product> prodList=products;
+        string Filename=@"\Serialized\demo.json";
+        var options=JsonSerializerOptions(IncludeFields:true);
+            JsonSerializer.Serialize(prodList);
+        
+    }
+
+    private static object JsonSerializerOptions(bool IncludeFields)
+    {
+        throw new NotImplementedException();
+    }
+
+    public static List<Product> GetAllProductsFromFile(){      
+        string path=@"\Serialized\demo.json"; 
             if(File.Exists(path)){
                 string jsonString=File.ReadAllText(path);
             List<Product> allProducts=JsonSerializer.Deserialize<List<Product>>(jsonString);
@@ -64,12 +80,17 @@ public class DBManager
                       select prod);
          */
 
-         Product product=new Product { ProductId = 1, Title = "Gerbera", 
-                                      Description = "Wedding Flower",
-                                      UnitPrice = 6, Category = "Flower",
-                                      Balance = 5000 };
+        //  Product product=new Product { ProductId = 1, Title = "Gerbera", 
+        //                               Description = "Wedding Flower",
+        //                               UnitPrice = 6, Category = "Flower",
+        //                               Balance = 5000 };
+        foreach(Product prod in products){
+            if(prod.ProductId==id){
+                return prod;
+            }
+        }
         
-        return product; 
+        return null; 
     }
 }
 

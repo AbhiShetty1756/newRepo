@@ -18,4 +18,5 @@ public class CatalogManager
        Product foundProduct=allProducts.Find((product)=>product.ProductId ==id);
       return foundProduct ;
      }
+     public void Serializedata()
 }

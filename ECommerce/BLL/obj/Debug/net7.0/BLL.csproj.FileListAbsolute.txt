@@ -1,0 +1,17 @@
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\bin\Debug\net7.0\BLL.deps.json
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\bin\Debug\net7.0\BLL.dll
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\bin\Debug\net7.0\BLL.pdb
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\bin\Debug\net7.0\BOL.dll
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\bin\Debug\net7.0\DAL.dll
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\bin\Debug\net7.0\BOL.pdb
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\bin\Debug\net7.0\DAL.pdb
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\obj\Debug\net7.0\BLL.dll
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\obj\Debug\net7.0\refint\BLL.dll
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\obj\Debug\net7.0\BLL.pdb
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BLL\obj\Debug\net7.0\ref\BLL.dll

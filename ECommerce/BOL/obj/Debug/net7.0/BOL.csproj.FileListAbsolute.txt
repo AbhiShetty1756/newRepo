@@ -1,0 +1,12 @@
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BOL\bin\Debug\net7.0\BOL.deps.json
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BOL\bin\Debug\net7.0\BOL.dll
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BOL\bin\Debug\net7.0\BOL.pdb
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BOL\obj\Debug\net7.0\BOL.dll
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BOL\obj\Debug\net7.0\refint\BOL.dll
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BOL\obj\Debug\net7.0\BOL.pdb
+F:\IACSD\SDM\endmoduleprac\newRepo\ECommerce\BOL\obj\Debug\net7.0\ref\BOL.dll

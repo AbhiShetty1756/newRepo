@@ -1,0 +1,241 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\EStoreWebApp\\EStoreWebApp.csproj": {}
+  },
+  "projects": {
+    "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BOL\\BOL.csproj": {
+                "projectPath": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BOL\\BOL.csproj"
+              },
+              "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\DAL\\DAL.csproj": {
+                "projectPath": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BOL\\BOL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BOL\\BOL.csproj",
+        "projectName": "BOL",
+        "projectPath": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BOL\\BOL.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BOL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BOL\\BOL.csproj": {
+                "projectPath": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BOL\\BOL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\EStoreWebApp\\EStoreWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\EStoreWebApp\\EStoreWebApp.csproj",
+        "projectName": "EStoreWebApp",
+        "projectPath": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\EStoreWebApp\\EStoreWebApp.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\EStoreWebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BLL\\BLL.csproj": {
+                "projectPath": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BLL\\BLL.csproj"
+              },
+              "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BOL\\BOL.csproj": {
+                "projectPath": "F:\\IACSD\\SDM\\endmoduleprac\\newRepo\\ECommerce\\BOL\\BOL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
